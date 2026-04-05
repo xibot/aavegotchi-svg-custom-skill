@@ -1,0 +1,419 @@
+id	slot	max_quantity	rarity_score_modifier	trait_modifiers	name
+0	none	0	0	0,0,0,0,0,0	The Void
+1	head	1000	1	0,1,0,0,0,0	Camo Hat
+2	body	1000	1	0,1,0,0,0,0	Camo Pants
+3	hands	1000	1	0,1,0,0,0,0	MK2 Grenade
+4	head	500	2	0,1,1,0,0,0	Snow Camo Hat
+5	body	500	2	0,1,1,0,0,0	Snow Camo Pants
+6	hands	500	2	0,2,0,0,0,0	M67 Grenade
+7	head	300	5	0,2,0,1,0,0	Marine Cap
+8	body	300	5	0,2,0,1,0,0	Marine Jacket
+9	hands	300	5	1,0,1,1,0,0	Walkie Talkie
+10	head	150	10	0,2,0,2,0,0	Link White Hat
+11	body	150	10	0,2,0,2,0,0	Link Mess Dress
+12	hands	150	10	2,0,0,-2,0,0	Link Bubbly
+13	face	50	20	-1,1,0,3,0,0	Sergey Beard
+14	eyes	50	20	0,0,1,4,0,0	Sergey Eyes
+15	body	50	20	3,2,0,0,0,0	Red Plaid
+16	body	5	50	-4,-2,0,0,0,0	Blue Plaid
+17	hands	5	50	0,0,0,6,0,0	Link Cube
+18	face	1000	1	0,0,1,0,0,0	Aave Hero Mask
+19	body	1000	1	0,0,1,0,0,0	Aave Hero Shirt
+20	hands	1000	1	0,0,1,0,0,0	Aave Plush
+21	head	500	2	1,0,1,0,0,0	Captain Aave Mask
+22	body	500	2	1,0,1,0,0,0	Captain Aave Suit
+23	hands	500	2	2,0,0,0,0,0	Captain Aave Shield
+24	head	250	5	2,0,1,0,0,0	Thaave Helmet
+25	body	250	5	2,0,1,0,0,0	Thaave Suit
+26	hands	250	5	3,0,0,1,0,0	Thaave Hammer
+27	head	100	10	2,2,0,0,0,0	Marc Hair
+28	body	100	10	2,2,0,0,0,0	Marc Outfit
+29	handLeft	100	10	0,0,0,-4,0,0	REKT Sign
+30	head	50	20	0,-2,3,0,0,0	Jordan Hair
+31	body	50	20	-3,0,1,1,0,0	Jordan Suit
+32	hands	50	20	0,-2,3,0,0,0	Aave Flag
+33	head	5	50	0,-3,0,3,0,0	Stani Hair
+34	body	5	50	3,-3,0,0,0,0	Stani Vest
+35	pet	5	50	0,-6,0,0,0,0	Aave Boat
+36	eyes	1000	1	0,0,0,-1,0,0	ETH Logo Glasses
+37	body	1000	1	0,0,0,-1,0,0	ETH Tshirt
+38	handLeft	1000	1	0,0,0,-1,0,0	32 ETH Coin
+39	head	500	2	0,-2,0,0,0,0	Foxy Mask
+40	body	500	2	0,-1,-1,0,0,0	Foxy Tail
+41	hands	500	2	-1,-1,0,0,0,0	Trezor Wallet
+42	head	250	5	1,0,2,0,0,0	Eagle Mask
+43	body	250	5	2,0,1,0,0,0	Eagle Armor
+44	handLeft	250	5	1,0,0,2,0,0	DAO Egg
+45	head	100	10	0,1,0,-3,0,0	Ape Mask
+46	body	100	10	1,1,0,-2,0,0	Halfrekt Shirt
+47	hands	100	10	0,0,0,-4,0,0	Waifu Pillow
+48	head	50	20	5,0,0,0,0,0	Xibot Mohawk
+49	eyes	50	20	0,5,0,0,0,0	Coderdan Shades
+50	body	50	20	0,0,5,0,0,0	GldnXross Robe
+51	hands	50	20	0,0,0,5,0,0	Mudgen Diamond
+52	head	5	50	0,0,0,6,0,0	Galaxy Brain
+53	eyes	5	50	-6,0,0,0,0,0	All-Seeing Eyes
+54	body	5	50	-3,-3,0,0,0,0	Llamacorn Shirt
+55	face	250	5	0,1,1,1,0,0	Aagent Headset
+56	body	250	5	-1,1,1,0,0,0	Aagent Shirt
+57	eyes	250	5	-1,0,2,0,0,0	Aagent Shades
+58	hands	250	5	0,3,0,0,0,0	Aagent Pistol
+59	head	250	5	-2,0,1,0,0,0	Aagent Fedora Hat
+60	head	1000	1	0,0,0,1,0,0	Common Wizard Hat
+61	head	125	10	0,0,2,2,0,0	Legendary Wizard Hat
+62	head	50	20	0,0,2,3,0,0	Mythical Wizard Hat
+63	head	5	50	0,0,2,4,0,0	Godlike Wizard Hat
+64	hands	1000	1	1,0,0,0,0,0	Common Wizard Staff
+65	hands	125	10	2,0,0,2,0,0	Legendary Wizard Staff
+66	eyes	1000	1	1,0,0,0,0,0	Wizard Visor
+67	head	1000	1	-1,0,0,0,0,0	Straw Hat
+68	body	1000	1	0,0,0,-1,0,0	Farmer Jeans
+69	hands	1000	1	0,1,0,0,0,0	Pitchfork
+70	hands	50	20	0,3,0,-2,0,0	Handsaw
+71	head	250	5	0,-1,-2,0,0,0	Red Santa Hat
+72	head	30	20	0,0,0,-5,0,0	Jaay Hairpiece
+73	eyes	10	20	-2,-2,0,-1,0,0	Jaay Glasses
+74	body	20	20	-2,0,0,-3,0,0	Jaay Suit
+75	hands	40	20	-5,0,0,0,0,0	OKex Sign
+76	handLeft	1000	1	0,0,0,1,0,0	Big GHST Token
+77	head	500	2	1,0,0,-1,0,0	Bitcoin Beanie
+78	body	500	2	0,1,0,-1,0,0	Black Jeans
+79	hands	250	5	1,0,0,-2,0,0	Skateboard
+80	head	250	5	-1,2,0,0,0,0	Sushi Bandana
+81	body	250	5	-2,1,0,0,0,0	Sushi Coat
+82	hands	125	10	0,0,-4,0,0,0	Sushi Piece
+83	hands	250	5	0,3,0,0,0,0	Sushi Knife
+84	head	125	10	-1,-3,0,0,0,0	Gentleman Hat
+85	body	125	10	-1,-3,0,0,0,0	Gentleman Coat
+86	eyes	50	20	0,-2,0,3,0,0	Monocle
+87	head	500	2	1,0,0,-1,0,0	Miner Helmet
+88	body	500	2	1,0,0,-1,0,0	Miner Jeans
+89	hands	250	5	1,2,0,0,0,0	Pickaxe
+90	head	1000	1	0,0,-1,0,0,0	Pajama Hat
+91	body	500	2	0,-1,-1,0,0,0	Pajama Shirt
+92	hands	250	5	0,-2,-1,0,0,0	Bedtime Milk
+93	hands	125	10	0,0,-4,0,0,0	Fluffy Pillow
+94	head	500	2	2,0,0,0,0,0	Sweatband
+95	body	500	2	1,0,0,-1,0,0	Track Shorts
+96	hands	500	2	2,0,0,0,0,0	Water bottle
+97	head	125	10	1,-1,-2,0,0,0	Pillbox Hat
+98	body	125	10	1,-1,-2,0,0,0	Day Dress
+99	hands	50	20	1,-1,-3,0,0,0	Parasol
+100	hands	125	10	1,-2,-2,0,0,0	Clutch
+101	head	125	10	0,1,3,0,0,0	Witchy Hat
+102	body	125	10	0,1,3,0,0,0	Witchy Cloak
+103	hands	50	20	0,2,2,1,0,0	Witchy Wand
+104	head	125	10	2,1,1,0,0,0	Portal Mage Helmet
+105	body	125	10	1,2,2,0,0,0	Portal Mage Armor
+106	hands	125	10	0,4,0,0,0,0	Portal Mage Axe
+107	hands	5	50	0,6,0,0,0,0	Portal Mage Black Axe
+108	head	500	2	-1,-1,0,0,0,0	Rasta Hat
+109	body	500	2	-1,-1,0,0,0,0	Rasta Shirt
+110	hands	250	5	-1,-2,0,0,0,0	Jamaican Flag
+111	head	125	10	1,-1,2,0,0,0	Hazmat Hood
+112	body	125	10	2,-1,1,0,0,0	Hazmat Suit
+113	hands	5	50	6,0,0,0,0,0	Uranium Rod
+114	body	50	20	-3,-2,0,0,0,0	Red Hawaiian Shirt
+115	body	125	10	-2,-2,0,0,0,0	Blue Hawaiian Shirt
+116	hands	250	5	0,0,-3,0,0,0	Coconut
+117	eyes	1000	1	0,0,0,-1,0,0	Cool shades
+118	hands	125	10	2,0,0,2,0,0	Water Jug
+119	hands	125	10	0,-1,-3,0,0,0	Baby Bottle
+120	hands	125	10	-1,0,0,-3,0,0	Martini
+121	hands	250	5	0,0,0,-3,0,0	Wine
+122	hands	50	20	0,0,-5,0,0,0	Milkshake
+123	hands	500	2	0,0,-2,0,0,0	Apple Juice
+124	head	50	20	0,0,0,-5,0,0	Beer Helmet
+125	body	125	10	2,2,0,0,0,0	Track Suit
+126	none	500	2	0,0,0,0,0,0	Kinship Potion
+127	none	250	5	0,0,0,0,0,0	Greater Kinship Potion
+128	none	500	2	0,0,0,0,0,0	XP Potion
+129	none	250	5	0,0,0,0,0,0	Greater XP Potion
+130	hands	1000	1	0,1,0,0,0,0	Fireball
+131	head	500	2	0,1,1,0,0,0	Dragon Horns
+132	body	250	5	0,2,1,0,0,0	Dragon Wings
+133	head	100	10	0,2,2,0,0,0	Pointy Horns
+134	hands	1000	1	0,0,0,1,0,0	L2 Sign
+135	body	500	2	0,0,0,2,0,0	Polygon Shirt
+136	head	250	5	0,-1,0,2,0,0	Polygon Cap
+137	hands	1000	1	0,-1,0,0,0,0	Vote Sign
+138	body	500	2	0,-2,0,0,0,0	Snapshot Shirt
+139	head	250	5	0,-3,0,0,0,0	Snapshot Cap
+140	face	1000	1	0,0,-1,0,0,0	Elf Ears
+141	hands	500	2	0,0,-1,1,0,0	Gemstone Ring
+142	head	250	5	0,0,-2,1,0,0	Princess Tiara
+143	body	100	10	2,2,0,0,0,0	Gold Necklace
+144	head	50	20	0,0,-3,2,0,0	Princess Hair
+145	head	5	50	0,0,-4,2,0,0	Godli Locks
+146	face	1000	1	-1,0,0,0,0,0	Imperial Moustache
+147	head	500	2	-1,0,0,-1,0,0	Tiny Crown
+148	hands	250	5	-2,0,0,-1,0,0	Royal Scepter
+149	head	100	10	-2,0,0,-2,0,0	Royal Crown
+150	body	50	20	-3,0,0,-2,0,0	Royal Robes
+151	pet	1000	1	0,0,0,-1,0,0	Common Rofl
+152	pet	500	2	-1,0,0,-1,0,0	Uncommon Rofl
+153	pet	250	5	-1,0,0,-2,0,0	Rare Rofl
+154	pet	100	10	-2,0,0,-2,0,0	Legendary Rofl
+155	pet	50	20	-2,0,0,-3,0,0	Mythical Rofl
+156	pet	5	50	-3,0,0,-3,0,0	Godlike Rofl
+157	face	500	2	1,1,0,0,0,0	Lil Pump Goatee
+158	hands	250	5	1,2,0,0,0,0	Lil Pump Drank
+159	eyes	100	10	0,3,1,0,0,0	Lil Pump Shades
+160	body	50	20	5,0,0,0,0,0	Lil Pump Threads
+161	head	5	50	4,2,0,0,0,0	Lil Pump Dreads
+162	body	1000	1	1,0,0,0,0,0	Miami Shirt
+163	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 1 TOP 10 RARITY
+164	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 1 TOP 10 KINSHIP
+165	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 1 TOP 10 EXPERIENCE
+166	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 1 TOP 100 RARITY
+167	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 1 TOP 100 KINSHIP
+168	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 1 TOP 100 EXPERIENCE
+169	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 2 TOP 10 RARITY
+170	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 2 TOP 10 KINSHIP
+171	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 2 TOP 10 EXPERIENCE
+172	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 2 TOP 100 RARITY
+173	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 2 TOP 100 KINSHIP
+174	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 2 TOP 100 EXPERIENCE
+175	none	635	2	0,0,0,0,0,0	Unicly LP uGOTCHI/ETH Q2 2021
+176	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 3 TOP 10 RARITY
+177	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 3 TOP 10 KINSHIP
+178	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 3 TOP 10 EXPERIENCE
+179	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 3 TOP 100 RARITY
+180	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 3 TOP 100 KINSHIP
+181	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 3 TOP 100 EXPERIENCE
+182	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 4 TOP 10 RARITY
+183	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 4 TOP 10 KINSHIP
+184	none	10	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 4 TOP 10 EXPERIENCE
+185	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 4 TOP 100 RARITY
+186	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 4 TOP 100 KINSHIP
+187	none	90	20	0,0,0,0,0,0	Rarity Farming SZN 1 Round 4 TOP 100 EXPERIENCE
+188	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN 1 (Rarity)
+189	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN 1 (Kinship)
+190	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN 1 (XP)
+191	none	1	50	0,0,0,0,0,0	2nd Place Rarity Farming SZN 1 (Rarity)
+192	none	1	50	0,0,0,0,0,0	2nd Place Rarity Farming SZN 1 (Kinship)
+193	none	1	50	0,0,0,0,0,0	2nd Place Rarity Farming SZN 1 (XP)
+194	none	1	50	0,0,0,0,0,0	3rd Place Rarity Farming SZN 1 (Rarity)
+195	none	1	50	0,0,0,0,0,0	3rd Place Rarity Farming SZN 1 (Kinship)
+196	none	1	50	0,0,0,0,0,0	3rd Place Rarity Farming SZN 1 (XP)
+197	none	6318	1	0,0,0,0,0,0	Rarity Farming SZN 1 Raanked
+198	none	1	50	0,0,0,0,0,0	Summoned Live at Consensus 2021
+199	eyes	250	5	0,0,3,0,0,0	Steampunk Goggles
+200	body	500	2	0,0,2,0,0,0	Steampunk Trousers
+201	hands	100	10	0,2,2,0,0,0	Mechanical Claw
+202	eyes	50	20	2,3,0,0,0,0	VR Headset
+203	body	250	5	1,2,0,0,0,0	Gamer Jacket
+204	hands	500	2	1,1,0,0,0,0	Game Controller
+205	hands	1000	1	1,0,0,0,0,0	Gotchi Mug
+206	head	250	5	0,2,0,1,0,0	Biker Helmet
+207	body	500	2	0,2,0,0,0,0	Biker Jacket
+208	eyes	500	2	0,0,2,0,0,0	Aviators
+209	face	100	10	-2,0,2,0,0,0	Horseshoe Mustache
+210	background	10000	1	1,0,0,0,0,0	Haunt1 BG
+211	head	1000	1	0,0,1,0,0,0	Guy Fawkes Mask
+212	hands	50	20	-2,0,0,3,0,0	1337 Laptop
+213	body	100	10	-4,0,0,0,0,0	H4xx0r Shirt
+214	eyes	5	50	-3,-3,0,0,0,0	Matrix Eyes
+215	eyes	100	10	2,2,0,0,0,0	Cyborg Eye
+216	face	50	20	0,0,-5,0,0,0	Rainbow Vomit
+217	hands	50	20	2,3,0,0,0,0	Energy Gun
+218	head	500	2	1,1,0,0,0,0	Mohawk
+219	face	250	5	0,0,2,-1,0,0	Mutton Chops
+220	body	100	10	1,3,0,0,0,0	Punk Shirt
+221	head	1000	1	0,0,0,-1,0,0	Pirate Hat
+222	body	500	2	0,0,1,-1,0,0	Pirate Coat
+223	hands	500	2	0,0,1,-1,0,0	Hook Hand
+224	eyes	250	5	0,0,2,-1,0,0	Pirate Patch
+225	hands	1000	1	1,0,0,0,0,0	Basketball
+226	head	250	5	2,-1,0,0,0,0	Red Headband
+227	body	250	5	1,-2,0,0,0,0	23 Jersey
+228	head	1000	1	0,0,0,1,0,0	10 Gallon Hat
+229	hands	500	2	0,1,0,1,0,0	Lasso
+230	body	1000	1	0,1,0,0,0,0	Wraangler Jeans
+231	body	500	2	-2,0,0,0,0,0	Comfy Poncho
+232	head	1000	1	-1,0,0,0,0,0	Poncho Hoodie
+233	pet	500	2	0,0,-1,1,0,0	Uncommon Cacti
+234	body	50	20	-5,0,0,0,0,0	Shaaman Poncho
+235	head	100	10	-4,0,0,0,0,0	Shaaman Hoodie
+236	pet	250	5	0,0,-1,2,0,0	Rare Cacti
+237	pet	50	20	0,0,-2,3,0,0	Mythical Cacti
+238	pet	5	50	0,0,-3,3,0,0	Godlike Cacti
+239	head	500	2	0,-2,0,0,0,0	Wagie Cap
+240	face	500	2	0,-2,0,0,0,0	Headphones
+241	body	250	5	0,-3,0,0,0,0	WGMI Shirt
+242	head	100	10	-2,-2,0,0,0,0	Maan Bun
+243	eyes	250	5	0,-3,0,0,0,0	Tinted Shades
+244	body	250	5	0,-3,0,0,0,0	V-Neck Shirt
+245	eyes	250	5	0,0,-3,0,0,0	Gecko Hat
+246	eyes	500	2	1,0,0,1,0,0	APY Shades
+247	hands	500	2	1,0,0,1,0,0	Up Arrow
+248	body	500	2	1,0,0,1,0,0	Up Only Shirt
+249	eyes	250	5	0,0,-2,-1,0,0	Gecko Eyes
+250	body	250	5	0,0,-2,-1,0,0	CoinGecko Tee
+251	hands	250	5	0,0,-1,-2,0,0	Candy Jaar
+252	head	1000	1	0,0,1,0,0,0	Aastronaut Helmet
+253	body	1000	1	0,0,1,0,0,0	Aastronaut Suit
+254	hands	1000	1	0,0,1,0,0,0	uGOTCHI Token
+255	head	100	10	2,-2,0,0,0,0	Space Helmet
+256	body	100	10	2,-2,0,0,0,0	Lil Bubble Space Suit
+257	hands	100	10	4,0,0,0,0,0	Bitcoin Guitar
+258	body	5	50	-3,0,0,3,0,0	Taoist Robe
+259	eyes	5	50	-3,0,0,3,0,0	Bushy Eyebrows
+260	face	5	50	-2,0,0,4,0,0	Beard of Wisdom
+261	pet	50	20	0,-2,0,3,0,0	Aantenna Bot
+262	eyes	50	20	0,-2,0,3,0,0	Radar Eyes
+263	face	50	20	0,-2,0,3,0,0	Signal Headset
+264	none	5	50	0,0,0,0,0,0	Aastronaut Crew Member
+265	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN2 (Rarity)
+266	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN2 (Kinship)
+267	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN2 (XP)
+268	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 RARITY 2nd Place
+269	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 KINSHIP 2nd Place
+270	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 XP 2nd Place
+271	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 RARITY 3rd Place
+272	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 KINSHIP 3rd Place
+273	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 XP 3rd Place
+274	none	11000	1	0,0,0,0,0,0	Rarity Farming SZN2 Raanked
+275	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 ROOKIE OF THE YEAR
+276	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN2 (Rookie Kinship)
+277	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN2 (Rookie XP)
+278	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 KINSHIP ROOKIE 2nd Place
+279	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 XP ROOKIE 2nd Place
+280	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 KINSHIP ROOKIE 3rd Place
+281	none	1	50	0,0,0,0,0,0	Rarity Farming SZN2 XP ROOKIE 3rd Place
+282	none	10	20	0,0,0,0,0,0	Rarity Farming SZN2 RARITY Top 10
+283	none	10	20	0,0,0,0,0,0	Rarity Farming SZN2 KINSHIP Top 10
+284	none	10	20	0,0,0,0,0,0	Rarity Farming SZN2 XP Top 10
+285	none	90	20	0,0,0,0,0,0	Rarity Farming SZN2 RARITY Top 100
+286	none	90	20	0,0,0,0,0,0	Rarity Farming SZN2 KINSHIP Top 100
+287	none	90	20	0,0,0,0,0,0	Rarity Farming SZN2 XP Top 100
+288	none	10	20	0,0,0,0,0,0	Rarity Farming SZN2 XP ROOKIE Top 10
+289	none	10	20	0,0,0,0,0,0	Rarity Farming SZN2 KINSHIP ROOKIE Top 10
+290	none	90	20	0,0,0,0,0,0	Rarity Farming SZN2 XP ROOKIE Top 100
+291	none	90	20	0,0,0,0,0,0	Rarity Farming SZN2 KINSHIP ROOKIE Top 100
+292	head	1000	1	0,-1,0,0,0,0	Brunette Ponytail
+293	body	1000	1	-1,0,0,0,0,0	Leather Tunic
+294	hands	1000	1	0,-1,0,0,0,0	Bow and Arrow
+295	face	1000	1	0,1,0,0,0,0	Forked Beard
+296	hands	500	2	0,1,0,-1,0,0	Doublesided Axe
+297	body	500	2	0,2,0,0,0,0	Animal Skins
+298	head	1000	1	0,0,0,-1,0,0	Horned Helmet
+299	hands	500	2	0,-1,0,1,0,0	Longbow
+300	head	500	2	-1,0,-1,0,0,0	Feathered Cap
+301	eyes	250	5	0,-2,0,1,0,0	Alluring Eyes
+302	head	250	5	-2,-1,0,0,0,0	Geisha Headpiece
+303	body	250	5	-1,-2,0,0,0,0	Kimono
+304	hands	250	5	0,-3,0,0,0,0	Paper Fan
+305	pet	100	10	0,4,0,0,0,0	Sus Butterfly
+306	face	100	10	-2,0,-2,0,0,0	Flower Studs
+307	body	100	10	-2,0,-2,0,0,0	Fairy Wings
+308	head	100	10	-2,0,-2,0,0,0	Red Hair
+309	head	50	20	3,-2,0,0,0,0	Citaadel Helm
+310	body	50	20	3,-2,0,0,0,0	Plate Armor
+311	hands	50	20	2,-3,0,0,0,0	Spirit Sword
+312	hands	50	20	0,-5,0,0,0,0	Plate Shield
+313	head	5	50	0,3,3,0,0,0	Kabuto Helmet
+314	body	5	50	0,3,3,0,0,0	Yoroi Armor
+315	hands	5	50	0,2,4,0,0,0	Haanzo Katana
+316	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN3 (Rarity)
+317	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN3 (Kinship)
+318	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN3 (XP)
+319	none	1	50	0,0,0,0,0,0	Rarity Farming SZN3 RARITY 2nd Place
+320	none	1	50	0,0,0,0,0,0	Rarity Farming SZN3 KINSHIP 2nd Place
+321	none	1	50	0,0,0,0,0,0	Rarity Farming SZN3 XP 2nd Place
+322	none	1	50	0,0,0,0,0,0	Rarity Farming SZN3 RARITY 3rd Place
+323	none	1	50	0,0,0,0,0,0	Rarity Farming SZN3 KINSHIP 3rd Place
+324	none	1	50	0,0,0,0,0,0	Rarity Farming SZN3 XP 3rd Place
+325	none	12565	1	0,0,0,0,0,0	Rarity Farming SZN3 Raanked
+326	none	10	20	0,0,0,0,0,0	Rarity Farming SZN3 RARITY Top 10
+327	none	10	20	0,0,0,0,0,0	Rarity Farming SZN3 KINSHIP Top 10
+328	none	10	20	0,0,0,0,0,0	Rarity Farming SZN3 XP Top 10
+329	none	90	20	0,0,0,0,0,0	Rarity Farming SZN3 RARITY Top 100
+330	none	90	20	0,0,0,0,0,0	Rarity Farming SZN3 KINSHIP Top 100
+331	none	90	20	0,0,0,0,0,0	Rarity Farming SZN3 XP Top 100
+332	none	392	5	0,0,0,0,0,0	GOTCHI SMAASH 2022 Haalloween Party
+333	none	580	2	0,0,0,0,0,0	TOOORKEY CHAASE 2022
+334	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN4 (Rarity)
+335	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN4 (Kinship)
+336	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN4 (XP)
+337	none	1	50	0,0,0,0,0,0	Rarity Farming SZN4 RARITY 2nd Place
+338	none	1	50	0,0,0,0,0,0	Rarity Farming SZN4 KINSHIP 2nd Place
+339	none	1	50	0,0,0,0,0,0	Rarity Farming SZN4 XP 2nd Place
+340	none	1	50	0,0,0,0,0,0	Rarity Farming SZN4 RARITY 3rd Place
+341	none	1	50	0,0,0,0,0,0	Rarity Farming SZN4 KINSHIP 3rd Place
+342	none	1	50	0,0,0,0,0,0	Rarity Farming SZN4 XP 3rd Place
+343	none	12809	1	0,0,0,0,0,0	Rarity Farming SZN4 Raanked
+344	none	7	50	0,0,0,0,0,0	Rarity Farming SZN4 RARITY Top 10
+345	none	7	50	0,0,0,0,0,0	Rarity Farming SZN4 KINSHIP Top 10
+346	none	7	50	0,0,0,0,0,0	Rarity Farming SZN4 XP Top 10
+347	none	90	20	0,0,0,0,0,0	Rarity Farming SZN4 RARITY Top 100
+348	none	90	20	0,0,0,0,0,0	Rarity Farming SZN4 KINSHIP Top 100
+349	none	90	20	0,0,0,0,0,0	Rarity Farming SZN4 XP Top 100
+350	body	1000	1	1,0,0,0,0,0	Pixelcraft Tee
+351	eyes	1000	1	0,0,0,1,0,0	3D Glasses
+352	hands	1000	1	0,0,-1,0,0,0	Pixelcraft Square
+353	pet	1000	1	0,-1,0,0,0,0	Nimbus
+354	body	500	2	1,0,0,-1,0,0	Alchemica Apron
+355	eyes	250	5	1,2,0,0,0,0	Safety Glasses
+356	face	500	2	0,0,1,-1,0,0	Bandage
+357	hands	250	5	1,0,2,0,0,0	Nail Gun
+358	body	100	10	-2,-2,0,0,0,0	Flaming Apron
+359	eyes	100	10	-1,-3,0,0,0,0	Forge Goggles
+360	hands	100	10	0,0,2,2,0,0	Geode Smasher
+361	pet	100	10	0,-2,2,0,0,0	Geo
+362	body	50	20	0,0,-4,-1,0,0	FAKE Shirt
+363	head	50	20	-3,0,0,-2,0,0	FAKE Beret
+364	hands	50	20	-3,0,-2,0,0,0	Paint Brush
+365	hands	50	20	0,0,-1,-4,0,0	Paint Palette
+366	body	5	50	4,0,0,-2,0,0	Heavenly Robes
+367	eyes	5	50	0,0,-3,-3,0,0	Eyes of Devotion
+368	face	5	50	0,0,-3,-3,0,0	Beard of Divinity
+369	hands	5	50	0,0,-3,-3,0,0	Staff of Creation
+370	head	1000	1	1,0,0,0,0,0	Wavy Hair
+371	face	1000	1	1,0,0,0,0,0	Plastic Earrings
+372	body	1000	1	0,0,0,1,0,0	Party Dress
+373	body	500	2	0,0,-2,0,0,0	Overalls
+374	pet	250	5	2,0,-1,0,0,0	Lens Frens Plant
+375	handLeft	1000	1	0,0,-1,0,0,0	GM Seeds
+376	head	250	5	0,2,0,-1,0,0	Lick Brain
+377	eyes	500	2	0,0,-2,0,0,0	Lick Eyes
+378	face	250	5	0,0,-3,0,0,0	Lick Tongue
+379	hands	250	5	-3,0,0,0,0,0	Lick Tentacle
+380	head	100	10	2,0,-2,0,0,0	Sebastien Hair
+381	eyes	100	10	1,-3,0,0,0,0	Voxel Eyes
+382	face	100	10	1,-3,0,0,0,0	GOATee
+383	body	100	10	3,-1,0,0,0,0	Sandbox Hoodie
+384	face	50	20	0,0,5,0,0,0	Faangs
+385	eyes	5	50	6,0,0,0,0,0	Block Scanners
+386	hands	5	50	-4,0,0,-2,0,0	Staff Charming
+387	head	5	50	0,0,0,-6,0,0	Roflnoggin
+388	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN5 (Rarity)
+389	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN5 (Kinship)
+390	none	1	50	0,0,0,0,0,0	CHAAMPION of Rarity Farming SZN5 (XP)
+391	none	1	50	0,0,0,0,0,0	Rarity Farming SZN5 RARITY 2nd Place
+392	none	1	50	0,0,0,0,0,0	Rarity Farming SZN5 KINSHIP 2nd Place
+393	none	1	50	0,0,0,0,0,0	Rarity Farming SZN5 XP 2nd Place
+394	none	1	50	0,0,0,0,0,0	Rarity Farming SZN5 RARITY 3rd Place
+395	none	1	50	0,0,0,0,0,0	Rarity Farming SZN5 KINSHIP 3rd Place
+396	none	1	50	0,0,0,0,0,0	Rarity Farming SZN5 XP 3rd Place
+397	none	12905	1	0,0,0,0,0,0	Rarity Farming SZN5 Raanked
+398	none	7	50	0,0,0,0,0,0	Rarity Farming SZN5 RARITY Top 10
+399	none	7	50	0,0,0,0,0,0	Rarity Farming SZN5 KINSHIP Top 10
+400	none	7	50	0,0,0,0,0,0	Rarity Farming SZN5 XP Top 10
+401	none	110	10	0,0,0,0,0,0	Rarity Farming SZN5 RARITY Top 100
+402	none	98	20	0,0,0,0,0,0	Rarity Farming SZN5 KINSHIP Top 100
+403	none	100	10	0,0,0,0,0,0	Rarity Farming SZN5 XP Top 100
+404	eyes	1000	1	-1,0,0,0,0,0	Granny Glasses
+405	face	1000	1	0,-1,0,0,0,0	Freckles
+406	pet	1000	1	0,0,0,1,0,0	Common Stohn
+407	eyes	500	2	0,2,0,0,0,0	Based Shades
+408	eyes	500	2	0,-2,0,0,0,0	Rasta Glasses
+409	face	500	2	-1,1,0,0,0,0	Braces
+410	pet	500	2	0,0,1,1,0,0	Uncommon Stohn
+411	face	250	5	3,0,0,0,0,0	Aloha Flowers
+412	face	250	5	3,0,0,0,0,0	Baable Gum
+413	pet	250	5	0,0,2,1,0,0	Rare Stohn
+414	face	100	10	2,2,0,0,0,0	Cheap Mask
+415	pet	100	10	0,-2,-2,0,0,0	Wild Fungi
+416	face	50	20	0,0,0,-5,0,0	Kawaii Mouth
+417	pet	50	20	2,0,0,-3,0,0	Baby Licky
