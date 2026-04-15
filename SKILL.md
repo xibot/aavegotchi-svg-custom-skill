@@ -24,7 +24,7 @@ Do not wait for the user to explicitly say `aavegotchi-svg-custom`.
 - supports custom hypothetical loadouts and token-id renders
 - writes PNGs by default alongside the SVGs for Telegram/chat delivery
 - applies the centralized side-view exception table for wearable layering
-- supports on-demand background modes: computed rarity, transparent, or any fixed rarity-tier color
+- keeps the background logic simple and deterministic: `common` by default, `transparent` on request, or any fixed rarity-tier color when explicitly requested
 - returns front, left, right, and back outputs plus a manifest JSON
 - supports friendlier presets, collateral aliases, and wearable-name lookup
 
